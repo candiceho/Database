@@ -1,0 +1,10 @@
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008020',"ApplicationManager");
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008021',"ApplicationManager");
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008022',"ApplicationManager");
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008023',"ApplicationManager");
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008024',"ApplicationManager");
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008025',"ApplicationManager");
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008026',"ApplicationManager");
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008027',"ApplicationManager");
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008028',"ApplicationManager");
+insert into ApplicationManager (Manager_ID,Manager_Type) values ('008029',"ApplicationManager");

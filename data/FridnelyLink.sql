@@ -1,0 +1,10 @@
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020000', 'nulla sed vel', 'https://bing.com/potenti/in/eleifend/quam.jsp', 'Government');
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020001', 'dapibus nulla suscipit', 'http://admin.ch/tortor.png', 'Singer');
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020002', 'pulvinar', 'http://ebay.com/parturient/montes/nascetur/ridiculus/mus.png', 'IT');
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020003', 'mauris', 'http://people.com.cn/dolor/morbi.js', 'Government');
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020004', 'vestibulum', 'https://symantec.com/elementum/in/hac/habitasse/platea/dictumst.aspx', 'Entertainment');
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020005', 'enim in tempor', 'https://chron.com/lacinia/eget/tincidunt/eget/tempus/vel.html', 'Movie');
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020006', 'dictumst', 'https://booking.com/nisi.json', 'Movie');
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020007', 'massa', 'https://diigo.com/consequat.png', 'TV station');
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020008', 'eu orci mauris', 'http://pagesperso-orange.fr/consectetuer/adipiscing.xml', 'Car');
+insert into FriendlyLink (FLink_ID, FLink_Title, FLink_ULR, FLink_Type) values ('020009', 'nulla', 'https://ezinearticles.com/lacinia/erat/vestibulum.json', 'Education');

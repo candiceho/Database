@@ -1,0 +1,10 @@
+insert into OrderManager (Manager_ID,Manager_Type) values ('008030',"OrderManager");
+insert into OrderManager (Manager_ID,Manager_Type) values ('008031',"OrderManager");
+insert into OrderManager (Manager_ID,Manager_Type) values ('008032',"OrderManager");
+insert into OrderManager (Manager_ID,Manager_Type) values ('008033',"OrderManager");
+insert into OrderManager (Manager_ID,Manager_Type) values ('008034',"OrderManager");
+insert into OrderManager (Manager_ID,Manager_Type) values ('008035',"OrderManager");
+insert into OrderManager (Manager_ID,Manager_Type) values ('008036',"OrderManager");
+insert into OrderManager (Manager_ID,Manager_Type) values ('008037',"OrderManager");
+insert into OrderManager (Manager_ID,Manager_Type) values ('008038',"OrderManager");
+insert into OrderManager (Manager_ID,Manager_Type) values ('008039',"OrderManager");

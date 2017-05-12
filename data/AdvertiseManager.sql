@@ -1,0 +1,10 @@
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008000', "advertisemanager");
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008001', "advertisemanager");
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008002', "advertisemanager");
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008003', "advertisemanager");
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008004', "advertisemanager");
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008005', "advertisemanager");
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008006', "advertisemanager");
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008007', "advertisemanager");
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008008', "advertisemanager");
+insert into AdvertiseManager (Manager_ID,Manager_Type) values ('008009', "advertisemanager");

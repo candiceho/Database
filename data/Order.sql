@@ -1,0 +1,19 @@
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012000', '2/9/2012', '013002', 24, 'mastercard', '5264062323678383', '014004', '008035');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012001', '6/21/2012', '013006', 19, 'switch', '6331104109774775', '014009', '008031');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012002', '9/17/2014', '013004', 11, 'bankcard', '5602255712717553', '014003', '008030');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012003', '11/2/2010', '013005', 33, 'maestro', '67618810200352289', '014000', '008035');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012004', '11/20/2011', '013005', 12, 'visa-electron', '4913429709389794', '014003', '008032');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012005', '8/20/2012', '013002', 39, 'diners-club-carte-blanche', '30520143569953', '014004', '008037');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012006', '2/9/2013', '013001', 26, 'switch', '675991168759081776', '014000', '008038');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012007', '3/6/2014', '013003', 15, 'jcb', '3579812531170770', '014006', '008032');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012008', '2/4/2013', '013003', 4, 'jcb', '3539553047069838', '014009', '008031');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012009', '3/4/2011', '013006', 19, 'diners-club-enroute', '201646551535344', '014003', '008030');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012010', '7/26/2011', '013002', 9, 'jcb', '3544105276830423', '014006', '008033');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012011', '6/26/2012', '013003', 25, 'instapayment', '6372857247188972', '014002', '008037');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012012', '1/21/2012', '013006', 9, 'jcb', '3578803350211614', '014002', '008037');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012013', '10/21/2013', '013001', 2, 'visa', '4289429503621', '014009', '008036');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012014', '5/19/2014', '013004', 15, 'jcb', '3567340055572118', '014005', '008031');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012015', '9/17/2014', '013001', 40, 'diners-club-enroute', '201554139066735', '014002', '008037');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012016', '12/8/2011', '013003', 3, 'maestro', '5018904212196630', '014001', '008039');
+insert into Orders (Order_ID, Order_Date, OrderType_ID, U_ID, Order_CardType, Order_CardNumber, Vip_ID, Manager_ID) values ('012017', '3/22/2015', '013003', 8, 'mastercard', '5010127563489275', '014004', '008038');
+-- data format should be 2012-02-09

@@ -1,0 +1,10 @@
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017000', 'IT', 'Pellentesque viverra pede ac diam.');
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017001', 'Sport', 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.');
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017002', 'Singer', 'Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.');
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017003', 'Education', 'Integer a nibh.');
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017004', 'Entertainment', 'Phasellus id sapien in sapien iaculis congue.');
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017005', 'Government', 'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.');
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017006', 'Game', 'Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.');
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017007', 'Movie', 'Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.');
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017008', 'Car', 'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.');
+insert into Authenticated_Type (AuthType_ID, AuthType_Name, AuthType_Info) values ('017009', 'TV station', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.');
